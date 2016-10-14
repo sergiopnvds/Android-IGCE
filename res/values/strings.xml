@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IGCE</string>
+	<string name="calculadora"> Calculadora de IGCE</string>
+	<string name="altura"> Altura</string>
+	<string name="hintAltura"> Introduzca la altura</string>
+	<string name="cms"> (cms)</string>
+	<string name="peso"> Peso</string>
+	<string name="hintPeso"> Introduzca el peso</string>
+	<string name="kgs"> (kgs)</string>
+	<string name="botonIMC"> Cálculo de IMC</string>
+	<string name="temporal"> IMC</string>
+	<string name="salud"> </string>
+	<string name="sexo"> Sexo:</string>
+	<string name="hombre"> Hombre</string>
+	<string name="mujer"> Mujer</string>
+	<string name="nacimiento"> Año de Nacimiento:</string>
+	<string name="botonIGCE"> Cálculo de IGCE</string>
+	<string name="temporal2"> IGCE</string>
+
+</resources>
